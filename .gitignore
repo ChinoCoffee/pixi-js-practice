@@ -1,0 +1,6 @@
+*.DS_STORE
+.project
+node_modules/*
+docs/reference/*
+!*.gitkeep
+.idea
